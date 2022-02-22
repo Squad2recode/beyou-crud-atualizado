@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BeYouCRUD.Models.cadastroAdmin>
+
+<head>
+    <link rel="stylesheet" href="~/css/tela-login.css">
+    <link rel="stylesheet" href="~/css/layout.css">
+</head>
+
+
+<section id="login">
+    <div class="container">
+        <div class="container-login">
+            <div class="wrap-login">
+                <span class="login-form-title">
+                    <h1>Faça o login</h1>
+                </span>
+                <form class="login-form">
+                    <div class="wrap-input margin-top-35 margin-bottom-35">
+                        <input class="input-form" type="text" name="email" autocomplete="off">
+                        <span class="focus-input-form" data-placeholder="E-mail"></span>
+                    </div>
+
+                    <div class="wrap-input margin-bottom-35">
+                        <input class="input-form" type="password" name="password">
+                        <span class="focus-input-form" data-placeholder="Senha"></span>
+                    </div>
+                    <div class="container-login-form-btn">
+                        <div class="login-form-btn">
+                            <input type="submit" value="Login" class="link-btn" />
+                        </div>
+                    </div>
+
+                    <ul class="login-utils">
+                        <li class="margin-bottom-8 margin-top-8 link">
+                            <span class="text1">
+                                Ainda não tem conta?
+                            </span>
+                            <a asp-action="Create" asp-controller="cadastroAdmins">Cadastre-se</a>
+                        </li>
+                    </ul>
+                </form>
+                <div>
+                    <img src="~/img/missao.svg" width="300" height="300" class="margin-left-50" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

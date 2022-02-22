@@ -1,0 +1,107 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/tela-login.css">
+    <link rel="stylesheet" href="~/css/layout.css">
+</head>
+
+<body>
+
+    <section id="login">
+        <div class="container">
+
+            <div class="container-login">
+                <div class="wrap-login">
+                    <form class="login-form" method="post" action="">
+                        <span class="login-form-title">
+                            <h1>Faça o login</h1>
+                        </span>
+
+                        <div class="wrap-input margin-top-35 margin-bottom-35">
+                            <input class="input-form" type="text" name="email" autocomplete="off">
+                            <span class="focus-input-form" data-placeholder="E-mail"></span>
+                        </div>
+
+                        <div class="wrap-input margin-bottom-35">
+                            <input class="input-form" type="password" name="password">
+                            <span class="focus-input-form" data-placeholder="Senha"></span>
+                        </div>
+
+                        <div class="container-login-form-btn">
+                            <a asp-action="adminArea" asp-controller="Home" class="link-btn">
+                                <div class="login-form-btn">
+                                    Entrar
+                                </div>
+                            </a>
+                        </div>
+
+                        <ul class="login-utils">
+                            <li class="margin-bottom-8 margin-top-8 link">
+                                <span class="text1">
+                                    Ainda não tem conta?
+                                </span>
+                                <a href="#paracadastro" onclick="irparacadastro()">Cadastre-se</a>
+                            </li>
+
+                        </ul>
+                    </form>
+                </div>
+                <img src="~/img/missao.svg" width="300" height="300" class="margin-left-50" />
+            </div>
+        </div>
+    </section>
+
+    <section id="cadastro">
+        <div class="container">
+
+            <div class="container-login">
+                <div class="wrap-login">
+                    <form class="login-form" method="post" action="">
+                        <span class="login-form-title">
+                            <h1>Cadastre-se</h1>
+                        </span>
+
+                        <div class="wrap-input margin-top-35 margin-bottom-35">
+                            <input id="nome" class="input-form" type="text" name="nome" autocomplete="off">
+                            <span class="focus-input-form" data-placeholder="Nome Completo"></span>
+                        </div>
+
+                        <div class="wrap-input margin-top-35 margin-bottom-35">
+                            <input id="email" class="input-form" type="email" name="email" autocomplete="off">
+                            <span class="focus-input-form" data-placeholder="E-mail"></span>
+                        </div>
+
+                        <div class="wrap-input margin-top-35 margin-bottom-35">
+                            <input id="telefone" class="input-form" type="tel" name="telefone" autocomplete="off">
+                            <span class="focus-input-form" data-placeholder="Telefone"></span>
+                        </div>
+
+                        <div class="wrap-input margin-bottom-35">
+                            <input id="senha" class="input-form" type="password" name="password">
+                            <span class="focus-input-form" data-placeholder="Senha"></span>
+                        </div>
+
+                        <div class="container-login-form-btn">
+                            <a href="/admin-area.html" class="link-btn">
+                                <div class="login-form-btn">
+                                    Cadastrar
+                                </div>
+                            </a>
+                        </div>
+
+                        <ul class="login-utils">
+                            <li class="margin-bottom-8 margin-top-8 link">
+                                <span class="text1">
+                                    Já possui uma conta?
+                                </span>
+                                <a href="#paralogin" onclick="irparalogin()">Login</a>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                <img src="~/img/missao.svg" width="300" height="300" class="margin-left-50" />
+            </div>
+        </div>
+    </section>
+
+
+    <script src="~/js/login-cadastro.js"></script>
+</body>

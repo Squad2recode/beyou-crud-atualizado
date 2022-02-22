@@ -1,0 +1,66 @@
+﻿@model BeYouCRUD.Models.cadastroAdmin
+
+
+<head>
+    <link rel="stylesheet" href="~/css/tela-login.css">
+    <link rel="stylesheet" href="~/css/layout.css">
+</head>
+
+<section>
+
+
+
+    <div class="container">
+        <div class="container-login">
+            <div class="wrap-login">
+                <span class="login-form-title">
+                    <h1>Cadastre-se</h1>
+                </span>
+                <form asp-action="Create">
+
+                    <div class="wrap-input margin-top-35 margin-bottom-35">
+                        <input asp-for="nome_admin" id="nome" class="input-form" type="text" name="nome" autocomplete="off" />
+                        <span asp-validation-for="nome_admin" class="focus-input-form" data-placeholder="Nome Completo"></span>
+                    </div>
+                    <div class="wrap-input margin-top-35 margin-bottom-35">
+                        <input asp-for="email" id="email" class="input-form" type="email" name="email" autocomplete="off" />
+                        <span asp-validation-for="email" class="focus-input-form" data-placeholder="E-mail"></span>
+                    </div>
+                    <div class="wrap-input margin-top-35 margin-bottom-35">
+                        <input asp-for="telefone" id="telefone" class="input-form" type="tel" name="telefone" autocomplete="off" />
+                        <span asp-validation-for="telefone" class="focus-input-form" data-placeholder="Telefone"></span>
+                    </div>
+                    <div class="wrap-input margin-top-35 margin-bottom-35">
+                        <input asp-for="senha" id="senha" class="input-form" type="password" name="password" />
+                        <span asp-validation-for="senha" class="focus-input-form" data-placeholder="Senha"></span>
+                    </div>
+                    <div class="container-login-form-btn">
+                        <a href="/admin-area.html" class="link-btn">
+                            <div class="login-form-btn">
+                                <input type="submit" value="Cadastrar" />
+                            </div>
+                        </a>
+                    </div>
+                    <ul class="login-utils">
+                        <li class="margin-bottom-8 margin-top-8 link">
+                            <span class="text1">
+                                Já possui uma conta?
+                            </span>
+                            <a asp-action="Index">Login</a>
+                        </li>
+                    </ul>
+                </form>
+                <div>
+                    <img src="~/img/missao.svg" width="300" height="300" class="margin-left-50" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

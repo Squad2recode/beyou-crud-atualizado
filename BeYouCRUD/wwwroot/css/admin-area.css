@@ -1,0 +1,22 @@
+footer {
+    margin-top: 8%;
+}
+
+.principal {
+    margin-top: 15%;
+    flex-wrap: wrap;
+}
+
+.principal img {
+    width: 25%;
+    margin: 3%;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.664);
+}
+
+.principal img:hover {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.664);
+}

@@ -1,0 +1,75 @@
+main {
+    margin-top: 9%;
+}
+
+h1 {
+    font-size: 2em !important;
+}
+
+.mvv {
+    width: 60%;
+    text-align: center;
+}
+
+.mvv h1, p {
+    font-weight: bold;
+}
+
+.sobre-nos {
+    padding: 1rem;    
+    background-color: rgba(251, 251, 251, 0.746);
+}
+
+.missao {
+    margin-top:3%;
+    padding: 1rem;    
+    background-color: rgba(251, 251, 251, 0.746);
+}
+
+.visao {
+    margin-top:3%;
+    padding: 1rem;    
+    background-color: rgba(251, 251, 251, 0.746);
+}
+
+.valores {
+    margin-top:3%;
+    padding: 1rem;    
+    background-color: rgba(251, 251, 251, 0.746);
+    margin-bottom: 5%;
+}
+
+.valores ul {
+    list-style: none;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+.sobre-nos:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.664);
+}
+
+.missao:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.664);
+}
+
+.visao:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.664);
+}
+
+.valores:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.664);
+}

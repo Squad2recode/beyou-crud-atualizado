@@ -1,0 +1,244 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BeYouCRUD
+build_property.RootNamespace = BeYouCRUD
+build_property.ProjectDir = C:\Users\Remakker\source\repos\BeYouCRUD\BeYouCRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Remakker\source\repos\BeYouCRUD\BeYouCRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroAdmins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9BZG1pbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroAdmins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9BZG1pbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroAdmins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9BZG1pbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroAdmins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9BZG1pbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroAdmins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9BZG1pbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroCursos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9DdXJzb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroCursos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9DdXJzb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroCursos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9DdXJzb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroCursos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9DdXJzb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroCursos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9DdXJzb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroParceiros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9QYXJjZWlyb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroParceiros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9QYXJjZWlyb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroParceiros/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9QYXJjZWlyb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroParceiros/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9QYXJjZWlyb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroParceiros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9QYXJjZWlyb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVagasEmpregos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9WYWdhc0VtcHJlZ29zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVagasEmpregos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9WYWdhc0VtcHJlZ29zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVagasEmpregos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9WYWdhc0VtcHJlZ29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVagasEmpregos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9WYWdhc0VtcHJlZ29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVagasEmpregos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9WYWdhc0VtcHJlZ29zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVoluntarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9Wb2x1bnRhcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVoluntarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9Wb2x1bnRhcmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVoluntarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9Wb2x1bnRhcmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVoluntarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9Wb2x1bnRhcmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/cadastroVoluntarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FkYXN0cm9Wb2x1bnRhcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/casasAcolhimentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNBY29saGltZW50b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/casasAcolhimentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNBY29saGltZW50b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/casasAcolhimentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNBY29saGltZW50b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/casasAcolhimentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNBY29saGltZW50b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/casasAcolhimentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNBY29saGltZW50b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/acolhimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhY29saGltZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/adminArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhZG1pbkFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/cadastrarCurso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYWRhc3RyYXJDdXJzby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/cadastrarVaga.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYWRhc3RyYXJWYWdhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/capacitacaoECursos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXBhY2l0YWNhb0VDdXJzb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/dadosImportantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkYWRvc0ltcG9ydGFudGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/encontreUmaCasa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlbmNvbnRyZVVtYUNhc2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/indiqueUmaCasa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRpcXVlVW1hQ2FzYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/informacoesLegais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmZvcm1hY29lc0xlZ2Fpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/missaoVisaoValores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtaXNzYW9WaXNhb1ZhbG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/mudeUmNome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtdWRlVW1Ob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/ondeProcurarVagas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvbmRlUHJvY3VyYXJWYWdhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/sejaUmParceiro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZWphVW1QYXJjZWlyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/sejaUmVoluntario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZWphVW1Wb2x1bnRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/telaLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWxhTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/vagasDeEmprego.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2YWdhc0RlRW1wcmVnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/verCandidatosParceiros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJDYW5kaWRhdG9zUGFyY2Vpcm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/verCandidatosVoluntarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJDYW5kaWRhdG9zVm9sdW50YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/verCasasIndicadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJDYXNhc0luZGljYWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/verCursosIndicados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJDdXJzb3NJbmRpY2Fkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Home/verVagasDeEmprego.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJWYWdhc0RlRW1wcmVnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/source/repos/BeYouCRUD/BeYouCRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e1jlmttyjt

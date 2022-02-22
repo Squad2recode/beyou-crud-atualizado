@@ -1,0 +1,48 @@
+﻿@model BeYouCRUD.Models.casasAcolhimento
+
+<head>
+    <link rel="stylesheet" href="~/css/layout.css">
+    <link href="~/css/cadastre.css" rel="stylesheet">
+</head>
+
+<body>
+
+
+    <section>
+        <div class="descricao">
+            <h2>
+                Editar
+            </h2>
+        </div>
+
+        <form class="dados" asp-action="Edit">
+            <label htmlFor="nome">Nome</label>
+            <input asp-for="nome_casa" type="text" placeholder="Nome da casa de acolhimento.." />
+
+            <label htmlFor="Site">Site</label>
+            <input asp-for="site" type="text" placeholder="Site, facebook, instagram... (link)" />
+
+            <label htmlFor="Estado">Estado</label>
+            <input asp-for="estado" type="text" placeholder="Estado da casa de acolhimento.." />
+
+            <label htmlFor="Site">Cidade</label>
+            <input asp-for="cidade" type="text" placeholder="Cidade da casa de acolhimento.." />
+            <div class="form-group">
+                <input type="submit" value="Salvar" />
+            </div>
+
+            <div>
+                <a asp-action="verCasasIndicadas" asp-controller="Home">Voltar</a>
+            </div>
+
+        </form>
+
+    </section>
+</body>
+
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}
